@@ -78,10 +78,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(myproject/image/background_civil.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
  }
 
  .home-img img{
